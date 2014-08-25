@@ -1,0 +1,22 @@
+{
+  "name": "pagetransitions",
+  "main": "app.js",
+  "version": "0.0.0",
+  "authors": [
+    "Bruce Vang <contact@brucevang.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.14",
+    "angular-route": "~1.2.14",
+    "bootstrap-sass-official": "~3.2.0"
+  }
+}
